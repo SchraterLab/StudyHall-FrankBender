@@ -1,0 +1,76 @@
+if [ -z "$1" ]
+then
+    echo "please use nebula --help for instructions on how to use."
+else
+
+    if [ $1 == "s" ]
+    then
+        echo "conducting server prechecks..."
+        cd /home/user/repo/backend
+        make -j
+        ./bin/run.sh
+    else
+        :
+    fi
+
+    # if [ $1 == "--help" ]
+    # then
+    #     echo "s : launches server"
+    #     echo "db : launches database"
+    #     echo "db:seed : seeds the database"
+    # else
+    #     :
+    # fi
+
+    if [ $1 == "start" ]
+    then
+        echo "===================================="
+        echo "        Welcome to Nebula           "
+        echo "===================================="
+        echo "root:root" | chpasswd
+        echo "postgres:postgres" | chpasswd
+        ROOTDIR=`git rev-parse --show-toplevel`
+    else
+        :
+    fi
+
+    if [ $1 == "db" ]
+    then 
+        cd /home/user/repo
+        service postgresql start
+        # su postgres -c "sh ./db/init.sh"
+    else
+        :
+    fi
+
+    if [ $1 == "build" ]
+    then
+        cd /home/user/repo
+        service postgresql start
+        su postgres -c "sh ./db/migrate.sh"
+        su postgres -c "psql -f ./db/stocks.sql"
+        cd /home/user/repo/backend
+        make -j
+        ./bin/run.sh
+    else
+        :
+    fi
+
+    if [ $1 == "db:migrate" ]
+    then 
+        cd /home/user/repo
+        su postgres -c "sh ./db/migrate.sh"
+    else
+        :
+    fi
+
+    if [ $1 == "db:seed" ]
+    then 
+        cd /home/user/repo
+        # su postgres -c "psql -f ./db/seed.sql"
+        su postgres -c "psql -f ./db/stocks.sql"
+    else
+        :
+    fi
+
+fi

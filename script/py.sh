@@ -1,4 +1,4 @@
 #!/bin/bash
 make clean
-make
-python3 router.py
+make -f Makefile
+python3 py/router.py

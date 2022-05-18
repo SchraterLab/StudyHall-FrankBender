@@ -11,8 +11,8 @@ Prizm software testing
 #include <map>
 #include <typeinfo>
 
-#include "printcolor.h"
-#include "error.h"
+#include "printcolor.hpp"
+#include "error.hpp"
 
 #define typename(x) _Generic((x),                                                         \
         unsigned char: "unsigned char",                                                   \

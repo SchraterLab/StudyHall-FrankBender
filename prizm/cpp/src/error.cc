@@ -1,4 +1,4 @@
-#include "error.h"
+#include "error.hpp"
 
 void prizm_error_construct(PrizmErr* err, enum PrizmErrType _type, const char* _file, const char* _func, int _line, const char* _msg) {
     err->setFile(_file);

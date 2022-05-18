@@ -11,7 +11,7 @@ Prizm software testing
 #include <string.h>
 #include <stdio.h>
 #include <ctime>
-#include "file_system.h"
+#include "file_system.hpp"
 
 #include <vector>
 #include <string>
@@ -26,6 +26,7 @@ enum PrizmErrType {
     EDBE, // database error
     ENULLPTR, // nullptr
     ECOMPILE, // compilation error
+    ESERVER // Network error
 };
 
 enum PrizmLogType {
@@ -46,7 +47,8 @@ static std::vector<std::string> err_labelsz = {
     "MIGRATION ERROR",
     "DATABASE ACCESS ERROR",
     "NULLPTR ACCESSED",
-    "COMPILATION FAILED"
+    "COMPILATION FAILED",
+    "SERVER ERROR"
 };
 
 struct PrizmErr {
@@ -94,7 +96,7 @@ void prizm_error_construct(PrizmErr* err, enum PrizmErrType _type, const char* _
             printf("\033[1;31m"); global_prizm_err.print(); printf("\033[0m"); PLOG(LFAIL, _msg); exit(1);
 
 #define PWARN(_type, _msg) prizm_error_construct(&global_prizm_err, _type, __FILE__, __PRETTY_FUNCTION__, __LINE__, _msg); \
-            printf("\033[1;35m"); global_prizm_err.print(); printf("\033[0m"); PLOG(LWARN, _msg); exit(1);
+            printf("\033[1;35m"); global_prizm_err.print(); printf("\033[0m"); PLOG(LWARN, _msg);
 
 void prizm_log(PrizmLogType type, const char* _file, const char* _func, int _line, const char* msg);
 

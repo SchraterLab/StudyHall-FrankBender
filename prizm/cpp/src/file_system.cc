@@ -3,8 +3,8 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include "error.h"
-#include "file_system.h"
+#include "error.hpp"
+#include "file_system.hpp"
 
 void FileSystem::write(const char* path, std::string toWrite) {
     std::ofstream myfile;

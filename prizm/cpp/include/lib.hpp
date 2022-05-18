@@ -8,12 +8,16 @@ Prizm software testing (Python port)
 #define LIB_H_
 
 #include <stdio.h>
-#include "printcolor.h"
+#include "printcolor.hpp"
+#include "file_system.hpp"
+#include <iostream>
 
 extern "C" void wonder() {
     blue();
     printf("Wonderful!\n");
     clearcolor();
+    std::string s = FileSystem::read("./frontend/index.html");
+    std::cout << s << std::endl;
 }
 
 #endif

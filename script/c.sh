@@ -1,4 +1,4 @@
 #!/bin/bash
 make clean
-make
+make -f Makefilec
 ./build/bin/prizm 8081 web
