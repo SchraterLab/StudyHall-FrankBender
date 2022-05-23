@@ -1,6 +1,6 @@
 from ctypes import *
 sofile = "./build/lib/prizm.so"
-Prizm = CDLL(sofile)
+Server = CDLL(sofile)
 
 # class Encrypt:
 #     def hash(toAuth = ""):
@@ -28,8 +28,8 @@ Prizm = CDLL(sofile)
 #         print("Url: %s", url)
 
 
-# Server.main.argtypes = c_int,POINTER(c_char_p)
-# args = (c_char_p * 3)(b'abc',b'8081',b'./frontend')
-# Server.main(len(args),args)
-Prizm.wonder()
-Prizm.main()
+Server.main.argtypes = c_int,POINTER(c_char_p)
+args = (c_char_p * 3)(b'5',b'8081',b'./frontend')
+Server.main(len(args),args)
+# Prizm.wonder()
+# Prizm.main()

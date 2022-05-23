@@ -1,0 +1,3366 @@
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+4 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: 
+5 - Conn request is: 
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+8 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+6 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: uhwX3rjdiCz6uVehkWCF5g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: GCOC+tnl+WfNtb+yEk4IjQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: CVjW5J8Xl4mwHBI+D4scqg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: hFw4WFyHW2shY+T1dE7EkQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+6 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: EsbiOqWkgvP+RUVBYMfH3Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+6 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: LaQKGrmZ6XACQronja2lng==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 7I1wbSHHSnW+LfjZAuFDtA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: 
+6 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: pI8weSsfExHu8EWQXET1gQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: bJRR6jg/Rdeqh6nfm2xjQA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: T8awCes9k58eSWy+mD1AdQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: J+YQsMTxS9+ScOC1wRauJg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+6 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: GyeScqt63lhYkW+/DdjmGw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Z8bm1u/dYIHZUAZ159cq9Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Zn8pyyMluulBLkG8ihNFcQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: NLEq/GLwyMz8ZoC4Y43Bfg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+6 - Conn request is: 
+7 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: NUXrrwLD8nlsUDTqZZc/Bw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+7 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ygqyDt0IEgt6S4TFbJLIqg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: l9am6Fca6IrlKVM/T5z/fA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 6/ph+RWXV/BqU25HO6P/4g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: iFTSaPZhUL7XOpwS4z7WYw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: P+/6YnaPQiFQE3/ZTGB3iQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: 
+6 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: gld0zfZko+kR5jK/XN/shQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: BPKG4DrqgzRwr9Qg54G0Yg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ePABTKkm42WpnRS/TLi2aw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: J5Y9jqBx5/O5vjTxC/jt/w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: DR30yLelHj/yOkTI+5i+Pw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: pie+9A6RK4uvTRWyZQYyGw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: 
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: QthgtMAhcCZVLDJWgsVO0Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: vyMA/TA9CoKfjNUFObPa4Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+6 - Conn request is: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8082/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 7SbDdO4X5rf2vJcdRW68pg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: mktXn94tcw8tLKaQy+J5PA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: tLWxSi2pb8nkWPkQaNZVpg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: j0s8LUfraD/kZitTjdk+2w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Wd2GToAuCiADY8yldG2ZeA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: XpNAtB88iV8wvR2lvinKWQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: WsIR/oOdxXrsbcbyq0xPcQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+5 - Conn request is: 
+7 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: UlBHzkg3K8371dZE8GK0pQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: u0w34+vzyTpN6sGVGap6Kg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: lTnj6RN+RadLZhts6a1B3w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: x8T/GkUDh4Qi3PGziPgfZA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 9wtOKzn4z25uFaib5qYXMw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Rka/blvrNFJZq5zX/f3S+A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Kz5aZ/SKow0hUYlFLyVzfQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+7 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ckBw366aJ3hVo9hTuxOJbw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: aixeDMHJDH+JeGraMm1h7g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: FRctmjXLZCOv7HB99N4Yug==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: fVQUQJgM/gyYcThXGG6wig==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+-1 - Conn request is: 
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: vS/COcxGw8aJbBWyWQ8xeQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: RvlGgRscvgAesmRBC9SkEQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: wzagpmtFxZGmv/pJHj0fag==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: p9ETmEDUO9vhdCA2Lam7cQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Sb+vy0NPgSZ69fMg7j/Dzg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: q0PxoA6MMxqeYWpPBVSbKw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: suVX4/RROr2GgpomPRao7Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 5yNz9cRkUEh3U4u/ARrlZA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: MY/aIpYT6u2mlhtJFoUJCA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: b9U123cNqhd8DQ42An1CYQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: kPdMMxu/W2Nc50REN8pkwg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 619K5YdamgrT4zgSvoHUsw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: bkyAAjuf1v5+GdJenip5/Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: gSs97hi83ZnELEJbyFJfCg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ZwVYWnpt3/g0cgeQM4rlxg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: kl75YbN3TNDULiYudd6+WQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: r80lZS9wrBF/BF/3YbdwXQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: O8BewtFSbZdeFVp0P2/a8Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 0jQzA+YP84cI0Gv9rEYjZQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: GXzztpggYF5L34KkZZth4g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: nEfzisPqMBAIbBjZaH1Ztw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: /Ij5/51KpFeMx49VaXayyQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 7tYHgjebamjTj71UD2ccPw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 8zfepDEbTJ3JYqCmTxiisA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 8M8Zz4EteWxkjEq6cjowZA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: NIBRlnc6ArXptwXx2/xX2A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: YotmJnP/LPpC/iji533bEg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Rc4Oi3kI3KQnaWHUPZenGw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: DuT3aZME967N1ZaN0e31jg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: KJjWVrMjX+EAWESsXFYK4A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 7GqJOEsZbtlOOq5vw4D48w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: P5Avcd+qJEAke7r06OVkzw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: EHDwfzuB+BHb7CkWcLKucw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 4DTMWFTP2KziXVD0ZRgMfg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: GMWcC9lPsTDmABj93H7dAA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: TfHHPuMEPu75QWFErM7VGg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ZQB1lluQYneUJVJK79VhVw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: v+2yRk+YcnSsWoZN3NSr1w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: sBFWXndji6IXS3fI0tdAxg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Lk2WnHJCCP28UCLo+Oa4xQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: UOdbnG2HO1plg70QgH1Lfw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: PuNINVLfFi4SA0TWaSD9MA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 7jsLa2b2IRdRnRv6yDHEeg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ieVRxyFJFQHs+gLHfNdlmQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: VHilplwyRvxWeaJg9+LTRA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: AduXykT5YeJi6kwMO2vq3w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: PbupQD9CGWe6h2ezANIUjA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Sn+EjWmhmuE1hXgZe48QCQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: jn7a/78kORD89BFOAk+yjA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 6UJECFquRmBLp63VDNzDXQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: cRza7mXcaNPqngmCbW190g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: /IR7JL8bLeLRwS6tf0mcNQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+7 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: HuDS84xap+EqntYQNU3Jeg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+8 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: RxxV89RvBQ8Vd+XdycOpkQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+9 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: FVNuBCQB3Yih7ULCCBdIww==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: TlYjQvMYFm2Cdx/mbh4dwQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: FEvlteatQVCM3HHhRLzcWQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+7 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: qHesFvMLIPOumlFdFkLpzg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: VWb8nH25INDrEF0OrszGJQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+8 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: uLU8q1KLWENwC4xYCiOhfQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+9 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: qNupm0qr85BILKFx3cAqwA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+10 - Conn request is: GET /echo HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: C9A0oDgp19BuW5ZweRmbBQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+11 - Conn request is: GET / HTTP/1.1
+Host: 127.0.0.1:8082
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+14 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: tsO3cy/JXwB1JTtqW71zXA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+15 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: aZ9yapEoEbsvcOeYYuVuPw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+13 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: LmSwvrJ6uMHyH5pb2rhCNw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+16 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: jI1O8nzEgMCGnHhYPF7JvA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+17 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ds5PoDo1vMN527H520jaUg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+18 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Ctp3M3CUXQ9gZzdY1brh+A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+20 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: NlFdOSLjzYVuMP6CPLEmig==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+21 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: GhbrQcNmnVPiJnzzb9CDUg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: CtuUvxTpr4mc40ngAf14dQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 3EIV1rpPuGLAkNa9P8+ggw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ky416YYhSKp0QDbcvYNr6Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: UibbsqTUqjGuaCrAqPjudA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: x5yf1XqLvrgMgYUaxG6aXw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: QthQUY8q60BiPjR7CVSyzw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: T8IeSH+pFvjZZErBvX6cPg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: E3X1mDIbPL4rIWWbAnq8XQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: GKhmynerypVZI+kf2BEfRA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+5 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: DsdFvkkQqUQaFEPM9dtS7w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: sVl7z68r5xkyFSgYJXrxdA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: +H0GtjlwpdMdQBRAQag2Xw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: VAjjTEL/YnuhYUMs/0Psgw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: B5mfJxuLGCzITxUK1Vcy1A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: fZufEmSCRdNtu9qRcI1Kiw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: +QGV4WP+H58tbgLX/r29Hw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+7 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: qoTUQAMGFQ4c18nM0gxR4A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: kBjoAkwtVmM9LZjb9jMz2A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: dfI8A+RiJzgWicyNCcvm8w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Byoo/SdqVUG26sqxuV/b4g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: G+r0I7Ap3FOwgKTWf/D6sw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+7 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: sezy7n9bYwMKMlXHjUETrw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: SgsOAfoAncBmoHJn8vueBg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+7 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: xrMZLCCKrpeCHxT1j14s4A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 8IM6RZOv6a0IzoGOzuLONg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: tmwML2qdhizAn5MzzvKPKQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: fL+GiVlYD91CQSxEfCAx1g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: GAp2TSe0iZutYdnNdFWglA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: H7sGsZQSa8cdHbu/2/+w9A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: M67xVBnbp6bW8TUxAJqAig==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+7 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: FDqzZ0j7NJhfxqtrIga0fw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+8 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: GaslOacKaM1Lnuc6Wdj/3g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: bh0v1QywyRLBKybYYxaUvg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: Rxqi66FOgZq1Ezb3VySsVg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+12 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: V6zfTtezKPa2Qb//DqymLA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 1hkCrJ+5IM8MdDYiszXZYg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: +O6PmUPlqKISDrlfkGJodg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 80DGTQoCeGWJg73kosBtvQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: lSSLB83wX8a1rGpH9qD/+A==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: rZm9+pftxmb+0PuBZhjLiQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+7 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: /+2/RoQ8+s0PQ0nbC+r19g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: QpuVsVHNMaOj2qCBb+p3Aw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: C6cRYWJUIUWUmraFi6iBug==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: iGYrCCmLfqS4Xxi0RUJ6sw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: ZFg4Tbm/wYEJgGL+JUaBNg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: oU5JAkEG50hm7FxVFEbc1g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: RtMujk5o/8/7Jqmp5hgBJw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: qqXJ9JDz5M7VvF3O/aE6eg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+6 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 1uaizDyJGG/kO2hyi9DliA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: 0LYR4H+fqVAW5x7+r/aVSw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+
+4 - Conn request is: GET / HTTP/1.1
+Host: localhost:8082
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+Upgrade: websocket
+Origin: http://127.0.0.1:8082
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: J0cDTAiK9UXa2Bk0QlariQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+

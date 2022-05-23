@@ -5,14 +5,64 @@
         Getting somewhere
         <script type="text/javascript">
             document.addEventListener("DOMContentLoaded", function(event) { 
+                let socket;
+                let open = false;
                 document.getElementById("web-socket").addEventListener("click", function() {
-                    console.log("Javascript runs!");
-                    console.log("Need to build Web socket api");
+                    if (!open) {
+                        socketTest();
+                        open = true;
+                    } else {
+                        socket.close(1000);
+                        open = false;
+                    }
                 });
+
+                if (performance.navigation.type == performance.navigation.TYPE_RELOAD) {
+                    socket.close(1000);
+                }
+
+                document.getElementById("send-socket").addEventListener("click", function() {
+                    socket.send("GET SOME!");
+                });
+
+                function socketTest() {
+                        socket = new WebSocket("ws://localhost:8082");
+                    // if ("Websocket" in window) {
+                        // alert("Websocket supported.");
+                        socket.open = () => {
+                            socket.send("Message to send.");
+                            // alert("Message sent");
+                        };
+
+                        socket.onmessage = (e) => {
+                            let received = e.data;
+                            console.log("Message received.");
+                            console.log(`%c WE FUCKING DID IT -- ${received}`, "color: cyan");
+                            // alert("Message received.");
+                        };
+
+                        socket.onclose = () => {
+                            console.log("Connection is closed.");
+                            // alert("Connection is closed.");
+                        }
+
+                        socket.onerror = (error) => {
+                            console.log(error);
+                        }
+
+                    // } else {
+                    //     alert("Websockets not supported.");
+                    // }
+                }
+
             });
+
         </script>
         <button id="web-socket">
             WEB SOCKET TEST
+        </button>
+        <button id="send-socket">
+            SEND WITH SOCKET
         </button>
     </body>
 </html>

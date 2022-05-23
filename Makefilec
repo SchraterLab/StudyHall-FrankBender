@@ -4,13 +4,13 @@ CXXFLAGS = -g -fPIC
 
 ROOT_DIR := $(shell git rev-parse --show-toplevel)
 -include $(ROOT_DIR)/config/settings
-INCLUDES = -Iprizm/cpp/include/*.h -I$(DEP_DIR)/include -Icurl
+INCLUDES = -Ibackend/cpp/include/*.h -I$(DEP_DIR)/include -Icurl
 LIBDIRS = -L$(DEP_DIR)/lib 
 LIBS = -lpthread -lssl -lcrypto -lz
 EXE = ${BUILD_DIR}/bin/prizm
 SHARED = ${BUILD_DIR}/lib/prizm.so
 
-SOURCES = $(wildcard prizm/cpp/src/*.c)
+SOURCES = $(wildcard backend/cpp/src/*.c)
 
 OBJFILES = $(notdir $(SOURCES:.c=.o))
 # OBJFILES_ALL = $(notdir $(OBJFILES_CC:.tpp=.o))
@@ -30,9 +30,9 @@ $(SHARED): $(BUILD_DIR) $(OBJECTS)
 	$(CXX) $(CXXFLAGS) -shared $(INCLUDES) $(LIBDIRS) $(LIBS) $(OBJECTS) -o $@
 
 $(EXE): $(BUILD_DIR) $(SHARED)
-	$(CXX) $(CXXFLAGS) -Wl,-rpath,$(BUILD_DIR)/lib $(LIBDIRS) -L$(BUILD_DIR)/lib $(INCLUDES) prizm/cpp/src/*.c $(LIBS) -o $@
+	$(CXX) $(CXXFLAGS) -Wl,-rpath,$(BUILD_DIR)/lib $(LIBDIRS) -L$(BUILD_DIR)/lib $(INCLUDES) backend/cpp/src/*.c $(LIBS) -o $@
 
-$(OBJDIR)/%.o: prizm/cpp/src/%.c
+$(OBJDIR)/%.o: backend/cpp/src/%.c
 # $(call make-depend-cxx,$<,$@,$(subst .o,.d,$@))
 	$(CXX) $(CXXFLAGS) $(INCLUDES) -c $< -o $@
 
